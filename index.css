@@ -20,10 +20,6 @@
     animation-timing-function: ease-in-out;
     animation-iteration-count: infinite;
   }
-
-  .Block > img:hover {
-    transform: scale(1.2);
-  }
 }
 
 @keyframes float {
